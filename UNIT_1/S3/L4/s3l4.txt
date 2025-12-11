@@ -1,0 +1,11 @@
+messaggio criptato = HSNFRGH
+messaggio decriptato = EPICODE
+metodo = ROT-3 (cifrario di cesare)
+
+
+messaggio criptato 2 = QWJhIHZ6b2VidHl2bmdyIHB1ciB6ciBhciBucHBiZXRi
+messaggio decriptato = non imbrogliate che me ne accorgo
+metodo = messaggio originale cifrato in due passaggi: 
+cifrato in ROT13, risultato = Aba vzoebtyvngr pur zr ar nppbetb
+la prima stringa cifrata viene codificata in Base64, risultato = QWJhIHZ6b2VidHl2bmdyIHB1ciB6ciBhciBucHBiZXRi
+
